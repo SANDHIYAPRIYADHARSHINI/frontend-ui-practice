@@ -1,0 +1,83 @@
+h4{
+    color:rgb(193, 64, 83);
+}
+h1{
+    font:oblique;
+    margin: 20px 50px 10px 50px;
+}
+#lyrics{
+    color:#da4474;
+    font:xx-large
+}
+.toppings{
+    color:rgb(201, 45, 131);
+    margin:auto;
+    width: 1000px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+    background-color: rgb(237, 128, 215);
+    color: #af083d;
+    font-size: larger;
+    text-align: center;
+    border-style: dashed hidden;
+    border-width: 1.9px;
+    border-color: #75112f;
+    border-radius: 10px;
+}
+body{
+    background-image: url(icecreammmm.jpg);
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+h1{
+    color: rgb(219, 48, 151);
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+h3{
+    color: rgb(139, 29, 95)
+}
+.edit{
+    text-decoration: underline;
+    text-decoration-color: #da4474;
+    text-shadow: 0px 2px 25px purple;
+    word-spacing: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight:bold;
+    font-variant:small-caps;
+    font-size: 16px;
+}
+table,th,td{
+    border:2.5px solid;
+    border-radius: 20px;
+    border-color: #75112f;
+    text-align: center;
+    border-collapse: collapse;
+}
+table{
+    width:100%;
+}
+tr{
+    height: 30px;
+}
+tr:hover{
+    background-color: lavender;
+}
+.final{
+    position:static;
+    left: 40px;
+    
+
+}
